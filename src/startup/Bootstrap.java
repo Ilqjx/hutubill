@@ -15,6 +15,7 @@ public class Bootstrap {
 			public void run(){
 				MainFrame.instance.setVisible(true);
 				MainPanel.instance.workingPanel.show(SpendPanel.instance);
+				//123
 			}
 		});
 	}
